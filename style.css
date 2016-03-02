@@ -1,1 +1,46 @@
+a {
+  text-decoration:none;
+  color:gray;
+}
 
+a:hover {
+  text-decoration:underline;
+}
+
+ul {
+  list-style-type:none;
+}
+
+#header {
+  float:right;
+  display:inline-block;
+}
+
+#main {
+  margin:auto;
+  text-align:center;
+}
+
+#logo {
+  margin:auto;
+}
+
+#searchbar {
+  margin:auto;
+}
+
+#button {
+  background-color:f1f1f1;
+  color:#cecece;
+  border-radius:5px;
+  border:1px #cccccc solid;
+  font-family:sans-serif;
+}
+
+#left {
+  float:left;
+}
+
+#right {
+  float:right;
+}
