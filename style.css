@@ -23,6 +23,7 @@ ul li {
   text-align:center;
   width:500px;
   clear:both;
+  position:absolute;
 }
 
 #logo {
@@ -30,9 +31,14 @@ ul li {
 }
 
 #searchbar {
-  margin:10px;
-  width:600px;
-  height:50px;
+  margin:0px;
+ border:none;
+ padding:0px;
+ width:100%;
+ position:absolute;
+ height:25px;
+ background:url("data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D") transparent;
+ 
 }
 
 #button {
