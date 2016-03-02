@@ -15,7 +15,7 @@ ul li {
 #header {
   float:right;
   height:90px;
-  margin:30px;
+  margin:-10px 30px 30px 30px;
 }
 
 #main {
