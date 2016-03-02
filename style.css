@@ -22,6 +22,7 @@ ul li {
   margin:auto;
   text-align:center;
   width:500px;
+  clear:both;
 }
 
 #logo {
