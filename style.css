@@ -9,6 +9,7 @@ a:hover {
 
 ul {
   list-style-type:none;
+  display:inline;
 }
 
 #header {
