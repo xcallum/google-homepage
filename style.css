@@ -30,8 +30,9 @@ ul li {
 }
 
 #searchbar {
-  margin:auto;
+  margin:10px;
   width:600px;
+  height:50px;
 }
 
 #button {
