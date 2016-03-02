@@ -37,6 +37,7 @@ ul li {
   border-radius:5px;
   border:1px #cccccc solid;
   font-family:sans-serif;
+  display:inline;
 }
 
 #left {
@@ -46,3 +47,5 @@ ul li {
 #right {
   float:right;
 }
+
+
