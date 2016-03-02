@@ -16,6 +16,7 @@ ul li {
   float:right;
   height:90px;
   margin:-10px 30px 30px 30px;
+  position:absolute;
 }
 
 #main {
@@ -28,6 +29,7 @@ ul li {
 
 #logo {
   margin:auto;
+  position:absolute;
 }
 
 #searchbar {
