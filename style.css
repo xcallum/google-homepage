@@ -14,7 +14,8 @@ ul li {
 
 #header {
   float:right;
-  display:inline;
+  height:90px;
+  margin:30px;
 }
 
 #main {
@@ -24,11 +25,12 @@ ul li {
 }
 
 #logo {
-  margin-top:100px;
+  margin:auto;
 }
 
 #searchbar {
   margin:auto;
+  width:600px;
 }
 
 #button {
