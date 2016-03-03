@@ -22,13 +22,11 @@ ul li {
   margin:auto;
   text-align:center;
   width:500px;
-  clear:both;
-  position:absolute;
+  clear:both;;
 }
 
 #logo {
   margin:auto;
-  position:absolute;
 }
 
 #searchbar {
