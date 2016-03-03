@@ -16,7 +16,6 @@ ul li {
   float:right;
   height:90px;
   margin:-10px 30px 30px 30px;
-  position:absolute;
 }
 
 #main {
@@ -37,7 +36,6 @@ ul li {
  border:none;
  padding:0px;
  width:100%;
- position:absolute;
  height:25px;
  background:url("data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D") transparent;
  
